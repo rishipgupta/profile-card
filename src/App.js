@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="card">
       <Avatar />
-
+      <h1>Christopher Nolan</h1>
       <div className="data">
         <Intro />
         <SkillList />
